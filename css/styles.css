@@ -120,4 +120,7 @@ p {
   .email-link {
     font-size: 18px;
   }
+  #text {
+    text-align: center;
+  }
 }
